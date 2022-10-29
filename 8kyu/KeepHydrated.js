@@ -9,4 +9,4 @@ function litres(time) {
     let litres = .5
     return Math.floor( litres *time);
   }
-  //**
+  //*
